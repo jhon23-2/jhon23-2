@@ -1,110 +1,62 @@
-# Hey There, Im JhonaDEv! 👋 Nice to see you. #
+<h1 align="center">👨‍💻 Jhonatan Almanza</h1>
 
-
-<!--suppress HtmlDeprecatedAttribute -->
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
-
-
-
-
-## 🛠️ My Skills
-
-### 👉 Programming languages
-
-<p align="left"> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
-  </a>
+<p align="center">
+  <b>Desarrollador de Software | Backend con Spring Boot | Arquitecturas Modernas</b><br>
+  📍 Colombia | 🕐 1.5 años de experiencia profesional
 </p>
 
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
+---
+
+### 🚀 Sobre mí
+
+Soy **Jhonatan Almanza**, tengo 20 años y soy un apasionado desarrollador de software especializado en construir aplicaciones y servicios robustos usando **Java con Spring Boot** y todo su ecosistema. Me encanta crear soluciones bien estructuradas, escalables y basadas en arquitecturas modernas como **microservicios** y **arquitectura hexagonal**.
+
+---
+
+### 🛠️ Tecnologías y herramientas que domino
+
+#### 📌 Lenguajes de programación
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+
+#### 🧩 Frameworks y librerías
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+
+#### 🐳 Herramientas DevOps
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=flat&logo=gitlab&logoColor=white)
+
+#### 🗃️ Bases de datos
+- **Relacionales**:  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+
+- **NoSQL**:  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
+
+#### 🧱 Arquitecturas
+- 🧩 Microservicios
+- 🧱 Arquitectura Hexagonal
+- 🏛️ Monolítica
+
+---
+
+### 📫 ¿Quieres contactarme?
+- ✉️ Email: *jhoalmanza52@gmail.com*
+- 💼 LinkedIn: *https://www.linkedin.com/in/jonathan-almanza-343b152a8/*
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="developer gif">
 </p>
 
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
-  &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
- </p>
-  
-### 👉Graphic Designing
-<p align="left">
-  &emsp;
-  	
-  
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
-  </a> 
-  &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
-  </a> 
-    &emsp;
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
-  </a>
-   &emsp;
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&logo=adobepremierepro&logoColor=white"/>
-  </a>
-    &emsp;
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
-  </a>
- </p>
-
- ### 👉 Software & Tools
- 
-<p>
-  &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-  &emsp;
+<p align="center">
+  <i>"Transformo ideas en soluciones con código limpio, estructuras sólidas y pasión por el desarrollo."</i>
 </p>
-
-<br/>
-
